@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/GiorgiaRistich/Project-Neural-Networks/blob/main/Gradients_without_Backpropagation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Project-Neural-Networks
 This repository contains the project for the exam of Neural Networks. 
 
